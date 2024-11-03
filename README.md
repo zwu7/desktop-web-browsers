@@ -120,7 +120,7 @@ Almost full list of Desktop Web Browsers (not all browsers in the list are recom
 | [Lunascape Browser](https://www.lunascape.org/browser/phoebe) | - | - | Supports three different web engines |
 | [Lynx](https://lynx.invisible-island.net/) | - | - | Text-based web browser |
 | <a id="M"></a> [Maxthon Browser](https://www.maxthon.com/) | Trident, WebKit, Blink | Windows, macOS, Linux, Android, iOS | Browser with blockchain app support |
-| [Mercury Browser](https://thorium.rocks/mercury) | Gecko | Windows, Linux | Fastest Firefox fork |
+| [Mercury Browser](https://thorium.rocks/mercury) | Gecko | Windows, Linux, macOS | Fastest Firefox fork |
 | [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e410&ch) | - | - | Cross-platform web browser by Microsoft |
 | [Midori Browser](https://astian.org/midori-browser-desktop/) | Electron | Linux, Android, Windows, macOS | Fast and secure light web browser |
 | [MilkShake](https://milkshake.netlify.app/) | - | Windows, macOS, Linux | Simple web browser with only one tab |
